@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellSlinger-game.Plugins", "SpellSlinger-game.Plugins.csproj", "{433A30D0-51F6-6AC6-96A4-5D12D5B55046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellSlinger-game", "SpellSlinger-game.csproj", "{7D8593E7-5E1D-E993-E43E-84DAA5B7A2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellSlinger-game.Editor.Plugins", "SpellSlinger-game.Editor.Plugins.csproj", "{DC5CC1A9-3FF5-44DD-0C9A-C2D3485D8554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433A30D0-51F6-6AC6-96A4-5D12D5B55046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433A30D0-51F6-6AC6-96A4-5D12D5B55046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433A30D0-51F6-6AC6-96A4-5D12D5B55046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433A30D0-51F6-6AC6-96A4-5D12D5B55046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8593E7-5E1D-E993-E43E-84DAA5B7A2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8593E7-5E1D-E993-E43E-84DAA5B7A2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8593E7-5E1D-E993-E43E-84DAA5B7A2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8593E7-5E1D-E993-E43E-84DAA5B7A2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5CC1A9-3FF5-44DD-0C9A-C2D3485D8554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5CC1A9-3FF5-44DD-0C9A-C2D3485D8554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5CC1A9-3FF5-44DD-0C9A-C2D3485D8554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5CC1A9-3FF5-44DD-0C9A-C2D3485D8554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
